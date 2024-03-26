@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 3% 5%;
+}
+
+.aside {
+  display: flex;
+  justify-content: center;
+  gap: 1%;
+}
