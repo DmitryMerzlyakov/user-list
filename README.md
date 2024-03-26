@@ -20,6 +20,10 @@ npm run dev
 
 ## Деплой
 
+```
+https://dmitrymerzlyakov.github.io/user-list/
+```
+
 ### Стек
 
 React TypeScript css vite
